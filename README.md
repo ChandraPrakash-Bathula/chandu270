@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me ...
-chandunaidu270.b@gmail.com
+chandu.bathula16@gmail.com
 
 <!---
 chandu270/chandu270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
