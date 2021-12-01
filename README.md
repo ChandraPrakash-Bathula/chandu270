@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandu
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Web Development projects.
+- 👀 I’m Learning Machine Learning.
+- 🌱 I’m currently working as ASE.
+- 💞️ I’m looking to collaborate on Machine Learning / Web Development projects.
 - 📫 How to reach me ...
 chandu.bathula16@gmail.com
 
