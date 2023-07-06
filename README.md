@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandu
-- 👀 I’m Learning Machine Learning.
-- 🌱 I’m currently working as ASE.
+- 👀 I’m a Machine Learning Practitioner.
+- 🌱 Previously worked as an ASE at Qentelli Solutions Pvt Ltd.
 - 💞️ I’m looking to collaborate on Machine Learning / Web Development projects.
 - 📫 How to reach me ...
 chandu.bathula16@gmail.com
